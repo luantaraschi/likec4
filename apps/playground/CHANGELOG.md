@@ -1,5 +1,20 @@
 # @likec4/playground
 
+## 1.59.3
+
+### Patch Changes
+
+- Updated dependencies [[`0888635`](https://github.com/likec4/likec4/commit/0888635f3269978599d0fd724529f876332b362c), [`67b696e`](https://github.com/likec4/likec4/commit/67b696e77ef8f97f43e435819a019ff8cc637cec), [`dc7eba2`](https://github.com/likec4/likec4/commit/dc7eba24559706f2e41ee5f8bfd66e79363de435), [`603d274`](https://github.com/likec4/likec4/commit/603d2747f3a1c46c1cf84857b637c1fe56f511f9), [`ecae4b2`](https://github.com/likec4/likec4/commit/ecae4b28259040be97f17041ebcf6ce535fc5fe4), [`797907a`](https://github.com/likec4/likec4/commit/797907a50098c64f50c22ec301183140c38ac33f), [`2159ad5`](https://github.com/likec4/likec4/commit/2159ad568c6daf555f90d6697fc13bf22150530c), [`6546da5`](https://github.com/likec4/likec4/commit/6546da5b8f5e96ee2d73d6254e5fa8d8c0a63ec4)]:
+  - @likec4/core@1.59.3
+  - @likec4/generators@1.59.3
+  - @likec4/language-server@1.59.3
+  - @likec4/diagram@1.59.3
+  - @likec4/styles@1.59.3
+  - @likec4/style-preset@1.59.3
+  - @likec4/log@1.59.3
+  - @likec4/tsconfig@1.59.3
+  - @likec4/icons@1.46.4
+
 ## 1.59.2
 
 ### Patch Changes

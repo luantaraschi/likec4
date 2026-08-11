@@ -1,5 +1,16 @@
 # @likec4/generators
 
+## 1.59.3
+
+### Patch Changes
+
+- [#3150](https://github.com/likec4/likec4/pull/3150) [`0888635`](https://github.com/likec4/likec4/commit/0888635f3269978599d0fd724529f876332b362c) Thanks [@merlincat11](https://github.com/merlincat11)! - Add optional view order metadata for sorting sibling views in navigation.
+
+- Updated dependencies [[`0888635`](https://github.com/likec4/likec4/commit/0888635f3269978599d0fd724529f876332b362c), [`dc7eba2`](https://github.com/likec4/likec4/commit/dc7eba24559706f2e41ee5f8bfd66e79363de435), [`61677a8`](https://github.com/likec4/likec4/commit/61677a8e5861f36c12e4f379f1623d9af455fa30)]:
+  - @likec4/core@1.59.3
+  - @likec4/config@1.59.3
+  - @likec4/log@1.59.3
+
 ## 1.59.2
 
 ### Patch Changes

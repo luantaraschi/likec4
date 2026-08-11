@@ -1,5 +1,17 @@
 # @likec4/mcp
 
+## 1.59.3
+
+### Patch Changes
+
+- Updated dependencies [[`0888635`](https://github.com/likec4/likec4/commit/0888635f3269978599d0fd724529f876332b362c), [`dc7eba2`](https://github.com/likec4/likec4/commit/dc7eba24559706f2e41ee5f8bfd66e79363de435), [`603d274`](https://github.com/likec4/likec4/commit/603d2747f3a1c46c1cf84857b637c1fe56f511f9), [`797907a`](https://github.com/likec4/likec4/commit/797907a50098c64f50c22ec301183140c38ac33f), [`61677a8`](https://github.com/likec4/likec4/commit/61677a8e5861f36c12e4f379f1623d9af455fa30)]:
+  - @likec4/core@1.59.3
+  - @likec4/language-server@1.59.3
+  - @likec4/config@1.59.3
+  - @likec4/language-services@1.59.3
+  - @likec4/layouts@1.59.3
+  - @likec4/log@1.59.3
+
 ## 1.59.2
 
 ### Patch Changes

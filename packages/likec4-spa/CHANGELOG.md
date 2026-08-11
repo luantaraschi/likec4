@@ -1,5 +1,12 @@
 # @likec4/spa
 
+## 1.59.3
+
+### Patch Changes
+
+- Updated dependencies [[`0888635`](https://github.com/likec4/likec4/commit/0888635f3269978599d0fd724529f876332b362c), [`dc7eba2`](https://github.com/likec4/likec4/commit/dc7eba24559706f2e41ee5f8bfd66e79363de435)]:
+  - @likec4/core@1.59.3
+
 ## 1.59.2
 
 ### Patch Changes

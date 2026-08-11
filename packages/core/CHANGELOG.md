@@ -1,5 +1,13 @@
 # @likec4/core
 
+## 1.59.3
+
+### Patch Changes
+
+- [#3150](https://github.com/likec4/likec4/pull/3150) [`0888635`](https://github.com/likec4/likec4/commit/0888635f3269978599d0fd724529f876332b362c) Thanks [@merlincat11](https://github.com/merlincat11)! - Add optional view order metadata for sorting sibling views in navigation.
+
+- [#2949](https://github.com/likec4/likec4/pull/2949) [`dc7eba2`](https://github.com/likec4/likec4/commit/dc7eba24559706f2e41ee5f8bfd66e79363de435) Thanks [@ckeller42](https://github.com/ckeller42)! - Allow model relationships to use the documented `<->` and `-[kind]<->` syntax, preserve bidirectional semantics through styling and relationship extensions, and include/exclude them from either endpoint in view relationship expressions. Fixes [#2927](https://github.com/likec4/likec4/issues/2927).
+
 ## 1.59.2
 
 ## 1.59.1
